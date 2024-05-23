@@ -2715,9 +2715,9 @@ hr {
 
 .slider-area {
     background-image: url(../img/FB\ Cover.jpg);
-    background-repeat: no-repeat;
+    background-repeat: repeat;
     background-position: center center;
-    background-size: cover
+    background-size: contain
 }
 
 .slider-area .hero__caption {
